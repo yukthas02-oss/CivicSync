@@ -1,0 +1,1 @@
+# CivicSync AI Service Module
